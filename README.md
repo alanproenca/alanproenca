@@ -3,9 +3,9 @@
 <
 
 - 🎓 Graduado em Engenharia Elétrica-Eletrônica 
-- 🎓 Graduando em Bacharelado Ciência de Dados - Univesp 
-- 🔨 Atualmente trabalho com manutenção elétrica na área de saneamento básico 
-- 📜 Estudando Python e os frameworks django e django-rest 
+- 🎓 Graduando em Bacharelado Tecnologia da Informação - Univesp 
+- 🔨 Atualmente trabalho com manutenção elétrica e Automação na área de saneamento básico 
+- 📜 Estudando Desenvolvimento Mobile Android Nativo.
 - 📧 E-mail para contato  alanproenca.dev@gmail.com 
 
 
